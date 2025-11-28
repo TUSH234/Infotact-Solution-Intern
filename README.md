@@ -7,6 +7,7 @@ This report presents a comprehensive analysis of coffee sales performance based 
 The analysis identifies patterns that can guide marketing, inventory management, and product strategy decisions.
 
 2.Objective
+
 The objective of this report is to provide management with actionable insights addressing:
 -Overall revenue and order volume for the period
 -Product-level revenue contributions and priorities
