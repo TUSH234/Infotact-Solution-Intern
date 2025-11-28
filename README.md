@@ -27,12 +27,16 @@ Top Selling Coffee: Latte
 4.INSIGHTS s FINDINGS
 1.1. Sales Trend Over Months
 Monthly totals indicate variation with notable peaks (from dashboard). This suggests seasonality or successful promotions in peak months. Investigate marketing/calendars for the peak months to replicate actions in off-peak months.
+
 2.2. Product Contribution
 Latte is the largest revenue contributor. A small set of products (Latte, Americano variants, Cappuccino, Hot Chocolate) drives a significant share of revenue. Prioritize inventory and promotions for these products.
+
 3.3. Time-of-Day Revenue Concentration
 Highest revenue is recorded during Night and Afternoon windows, with strong Morning sales. Align staff and prep schedules to peak windows; introduce incentives for low-traffic hours.
+
 4.4. Weekday Pattern
 Tuesday is the strongest weekday by revenue (~₹15.1K). Consider weekday-targeted promotions on lower-performing days to smooth weekly demand.
+
 5.5. Average Order Value
 AOV (₹31.80) indicates opportunity to increase basket size through bundled offers, add-ons, and loyalty incentives.
 
